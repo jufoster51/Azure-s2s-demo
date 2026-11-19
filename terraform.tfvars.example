@@ -1,0 +1,5 @@
+resource_group_name = "rg-s2s-ftd-customer-demo"
+location            = "centralus"
+prefix              = "s2sftdcust"
+
+# Do not put vpn_shared_key or SSH private-key material in this file.
